@@ -1,0 +1,20 @@
+KH001,Nguyen,Thanh,0901234567,123 Le Loi - Ha Noi
+KH002,Tran,Huong,0912345678,456 Nguyen Hue - TP.HCM
+KH003,Le,Nam,0923456789,789 Tran Hung Dao - Da Nang
+KH004,Pham,Linh,0934567890,321 Hai Ba Trung - Hue
+KH005,Hoang,Quan,0945678901,654 Ba Trieu - Ha Noi
+KH006,Do,Nga,0956789012,987 Le Duan - TP.HCM
+KH007,Vu,Tuan,0967890123,147 Ly Thuong Kiet - Hai Phong
+KH008,Truong,Mai,0978901234,258 Nguyen Trai - Can Tho
+KH009,Nguyen,Hai,0989012345,369 Hoang Hoa Tham - Da Nang
+KH010,Pham,Thao,0990123456,741 Tran Phu - Nha Trang
+KH011,Le,Hieu,0901234568,852 Le Loi - Ha Noi
+KH012,Tran,Anh,0912345679,963 Nguyen Hue - TP.HCM
+KH013,Nguyen,Dung,0923456780,159 Tran Hung Dao - Da Nang
+KH014,Pham,Lan,0934567891,357 Hai Ba Trung - Hue
+KH015,Hoang,Minh,0945678902,468 Ba Trieu - Ha Noi
+KH016,Do,Trang,0956789013,579 Le Duan - TP.HCM
+KH017,Vu,Hung,0967890124,681 Ly Thuong Kiet - Hai Phong
+KH018,Truong,Hoa,0978901235,792 Nguyen Trai - Can Tho
+KH019,Nguyen,Khoa,0989012346,803 Hoang Hoa Tham - Da Nang
+KH020,Pham,Phuong,0990123457,914 Tran Phu - Nha Trang
